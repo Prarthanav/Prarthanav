@@ -1,5 +1,5 @@
 #### About Me
-I am Prarthana Veerabhadraiah, a passionate Data Scientist and Software Engineer based in Boston, MA. With a strong academic foundation in Data Analytics Engineering and a Bachelor's in Computer Science and Engineering, from algorithms to analytics, my enthusiasm for tech fuels my commitment to continuous learning and innovation.
+I am Prarthana Veerabhadraiah, a passionate Data Analyst/Engineer and Software Engineer based in Boston, MA. With a strong academic foundation in Data Analytics Engineering and a Bachelor's in Computer Science and Engineering, from algorithms to analytics, my enthusiasm for tech fuels my commitment to continuous learning and innovation.
 
 #### 🚀 Technical Skills
 - **Data Analysis:** Python, SQL, NoSQL, Kafka, Spark, Hadoop
