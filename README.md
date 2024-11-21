@@ -7,9 +7,9 @@ I am Prarthana Veerabhadraiah, a passionate Data Analyst/Engineer and Software E
 - **Programming Languages:** Java, JavaScript, ReScript, React, HTML, CSS, TailwindCSS
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Developer Tools:** Jupyter Notebook, Git, Jira, Visual Studio Code, Linux
+- **Cloud and DevOps Tools:** AWS, Docker, Kubernetes
 
 #### 🌟 Let's Collaborate!
 I am excited about data-driven innovation and enjoy collaborating on diverse projects.
 [LinkedIn](<https://www.linkedin.com/in/prarthana-veerabhadraiah/>) | [Email](mailto:veerabhadraiah.p@northeastern.edu) | [Publications](<https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=prarthana%20v%20siddaganga%20institute%20of%20technology>)
 
-Happy coding! 🚀🔍
